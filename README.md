@@ -1,5 +1,5 @@
 # Janji
-Saya Syahraini Revita Puri dengan NIM 2301895 berjanji mengerjakan TP9 DPBO dengan keberkahan-Nya, maka saya tidak akan melakukan kecurangan sesuai yang telah di spesifikasikan, Aamiin
+Saya Syahraini Revita Puri dengan NIM 2301895 berjanji mengerjakan TP10 DPBO dengan keberkahan-Nya, maka saya tidak akan melakukan kecurangan sesuai yang telah di spesifikasikan, Aamiin
 
 # Desain Program
 
