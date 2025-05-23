@@ -21,7 +21,7 @@ Saya Syahraini Revita Puri dengan NIM 2301895 berjanji mengerjakan TP9 DPBO deng
 - contact (varchar),
 - created_at (timestamp)
 
-**c. Enrollments Table:**: 
+**c. Tabel orders:**: 
 - id (int, PRIMARY KEY),
 - product_id (int, FOREIGN KEY ke tabel products),
 - baker_id (int, FOREIGN KEY ke tabel bakers),
